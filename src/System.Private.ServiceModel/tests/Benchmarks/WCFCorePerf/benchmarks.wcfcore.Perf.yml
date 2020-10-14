@@ -2,7 +2,7 @@ jobs:
   WCFCorePerf:
     source:
       repository: https://github.com/Liuziyi1/wcf.git
-      branchOrCommit: master
+      branchOrCommit: PerfCrank
       project: src/System.Private.ServiceModel/tests/Benchmarks/WCFCorePerf/WCFCorePerf/WCFCorePerf.csproj
     isConsoleApp: true
     waitForExit: true
